@@ -4,7 +4,7 @@ Serverless Auckland is all about computing and architectures that allow you to N
 
 It will take place in Auckland, New Zealand. [Full story](https://www.meetup.com/Serverless-Auckland/)
 
-* Title : Identity 101 and Serverless Authentication 
+* Title : Identity 101 & Serverless Authentication 
 * Description : This talk is intended as a big picture introduction so that when we approach more in-depth topics, we have a frame of reference on what we are discussing: Serverless, Authentication, OAuth, SAML, JWTs, Claims, Tokens and all the other mysterious beasts that you will encounter when working with identity.
 
 ### Goals : 
